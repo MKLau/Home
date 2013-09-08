@@ -1,6 +1,12 @@
+Store
+-dish soap
+-trash bags
+-floss
+
+
 kitchen
 -table
--coumter
+-counter space
 -pots/pans
 
 living room
