@@ -1,0 +1,18 @@
+kitchen
+-table
+-coumter
+-pots/pans
+
+living room
+-table
+-bookshelves
+-couch
+-
+
+computer?
+office stuff?
+dishes?
+
+divider?
+
+
