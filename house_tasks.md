@@ -17,7 +17,7 @@ House Tasks
 - yogurt
 - fruit
 - fish oil
-- 
+- cheese
 
 *Kitchen*
 
