@@ -2,6 +2,8 @@ House Tasks
 ===========
 
 **sunday 29 sep 2013**
+- [x]  read
+- [ ]  read
 - [] formaggio
 - [ ]  store
 - [ ] 
