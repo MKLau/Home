@@ -7,10 +7,16 @@ House Tasks
 2. store
 3. ?
 
-- [x]  read
 
 *Store*
-- ?
+- lunch stuff
+- veggies
+- meat
+- granola
+- yogurt
+- fruit
+- fish oil
+- 
 
 *Kitchen*
 
