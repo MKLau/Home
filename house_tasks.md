@@ -32,6 +32,8 @@ House Tasks
 - couch
 - divider
 - office stuff and computer
+- rugs for bed
+
 
 *Un-categorized*
 - ?
