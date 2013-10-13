@@ -1,4 +1,12 @@
 Store
 
--[ ] meat
-- [ ]  milk
+- meat
+- milk
+- fruit
+- veggies
+- beans
+- dish soap
+- lemon
+- orange
+- fine salt
+- 
