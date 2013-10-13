@@ -9,4 +9,3 @@ Store
 - lemon
 - orange
 - fine salt
-- 
