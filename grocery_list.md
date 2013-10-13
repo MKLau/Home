@@ -10,4 +10,4 @@ Store
 - orange
 - fine salt
 - butter
-- ?
+- miso
