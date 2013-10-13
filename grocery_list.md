@@ -11,3 +11,7 @@ Store
 - fine salt
 - butter
 - miso
+- nuts
+- yogurt
+- pistachios 
+- pepitas
