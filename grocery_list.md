@@ -15,3 +15,4 @@ Store
 - yogurt
 - pistachios 
 - pepitas
+- olive oil
