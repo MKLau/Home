@@ -1,4 +1,4 @@
 Store
 
-- [ ]  meat
+- [ ] meat
 - [ ]  milk
