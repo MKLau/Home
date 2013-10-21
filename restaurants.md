@@ -1,7 +1,7 @@
 **Sushi**
-- [ ]  http://unisashimibar.com/
-- [ ]  Oya sushi
+- http://unisashimibar.com/
+- Oya sushi
 
 
 **New**
-- [ ]  Green Street
+- Green Street
