@@ -7,6 +7,7 @@
 - The Cellar (burger, anything on the menu)
 
 **New**
+- Wagamama (ramen)
 - Basho Japanese Brasserie (ramen)
 - Koreana
 - East Coast Grill (brunch?)
