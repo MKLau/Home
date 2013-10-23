@@ -4,6 +4,7 @@ House Tasks
 **weekend**
 - health care
 - clothes
+- sort first aid and costume bins
 
 *Store*
 - 
