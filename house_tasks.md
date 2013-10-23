@@ -6,20 +6,12 @@ House Tasks
 - clothes
 
 *Store*
-- lunch stuff
-- veggies
-- meat
-- granola
-- yogurt
-- fruit
-- fish oil
-- cheese
+- 
 
 *Kitchen*
 
 - table
 - counter space
-- pots/pans
 - water filter?
 
 *Living Room*
@@ -29,7 +21,7 @@ House Tasks
 - divider
 - office stuff and computer
 - rugs for bed
-
+- plants
 
 *Un-categorized*
 - ?
