@@ -1,13 +1,12 @@
 House Tasks
 ===========
 
-**weekend**
+*weekend*
 - health care
 - clothes
 - sort first aid and costume bins
 
 *Store*
-- 
 
 *Kitchen*
 
