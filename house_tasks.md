@@ -5,6 +5,8 @@ House Tasks
 - health care
 - clothes
 - sort first aid and costume bins
+- clean car
+- get chairs
 
 *Store*
 
