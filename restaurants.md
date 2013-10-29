@@ -13,7 +13,6 @@
 - East Coast Grill (brunch?)
 - http://unisashimibar.com/ (sushi)
 - Oya sushi (sushi)
-- Green Street (?)
 - Yume Wo Katare (ramen)
 - Myung Dong 1st. Ave. (ramen)
 - Oya (sushi)
