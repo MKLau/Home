@@ -7,6 +7,7 @@
 - The Cellar (burger, anything on the menu)
 
 **New**
+- [Ramen List](http://www.bostonmagazine.com/2013/01/asian-dining-best-ramen-restaurant-boston/)
 - Wagamama (ramen)
 - Basho Japanese Brasserie (ramen)
 - Koreana
