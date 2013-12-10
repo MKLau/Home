@@ -1,1 +1,1 @@
-[Event Calendar](https://www.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=1cqoma55e1aks03i9jj88jkefk%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FNew_York)
+[Event Calendar](https://www.google.com/calendar/embed?src=1cqoma55e1aks03i9jj88jkefk%40group.calendar.google.com&ctz=America/New_York)
